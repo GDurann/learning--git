@@ -2,3 +2,6 @@ A journalist asked a programmer, what makes bad jokes?
 No comment.
 
 If having a coffee in the morning doesn't wake you up, try deleating a table in a production database instead.
+
+What laguage does a deff person thinks on? 
+They don't know any.
